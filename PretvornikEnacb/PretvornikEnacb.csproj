@@ -8,4 +8,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Syncfusion.DocIO.WinForms" Version="24.2.5" />
+  </ItemGroup>
+
 </Project>
